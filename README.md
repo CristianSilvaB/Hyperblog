@@ -1,2 +1,2 @@
 # Hyperblog
-un blog increible que su funcion realmente es aprender git y github con el
+un blog increible que su funcion realmente es que yo aprenda git y github con el
